@@ -11,7 +11,7 @@ Nearest_Neighbors.py [input file]
 
 ## Input
 
-The input file must be of the following form: The first `k` lines contain coordinates of each node, indexed by their ID (going from `1` to `k`) and separated by spaces. The last line is the search radius `r`.
+The input file must be of the following form: The first `k` lines contain coordinates of each node, indexed by their ID (going from `1` to `k`) and separated by spaces. The last line is the search radius `r`. See the example input files.
 
 ## Output
 
